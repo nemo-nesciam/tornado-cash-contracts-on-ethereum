@@ -1,5 +1,6 @@
 # List of Tornado Cash Contracts on Ethereum
 
+This repo is a compilation of Tornado Cash contracts on the Ethereum blockchain. It is designed to provide easy access for investigative and research purposes, offering a detailed list of contracts with specifics such as deposit amounts, deposit and withdrawal contract addresses. 
 
 | Deposit Amount  | Deposit Contract                             | Withdrawal Contract                        
 |-----------------|----------------------------------------------|------------------------------------------|
